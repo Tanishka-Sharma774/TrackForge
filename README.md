@@ -1,3 +1,6 @@
 # TrackForge
 Issue-Tracking System
-WIP – Currently building a full-stack issue tracking platform using Next.js and MongoDB. MVP in progress
+
+<br># TrackForge (In Progress)
+Collaborative issue tracking and assignment system built with a full-stack architecture. Features include user auth, filtering, assignment, and dashboard views. Development in progress.
+
